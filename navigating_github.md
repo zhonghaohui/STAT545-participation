@@ -10,5 +10,5 @@ Haohui Zhong's participation repository https://github.com/zhonghaohui/STAT545-p
 Haohui Zhong's account https://github.com/zhonghaohui
 
 
-2018 assignment 01 URL https://github.com/STAT545-UBC/Classroom/blob/294d5e9d5b2c014333927d537d99ddb696f26f46/assignments/hw01/hw01.html
+2018 assignment 01 URL https://github.com/STAT545-UBC/Classroom/blob/e2a02abaa8b625921a5d2f2963c20aaebb59f1fa/assignments/hw01/hw01.md
 due date: September 18, 2018
