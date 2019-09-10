@@ -1,2 +1,2 @@
 # STAT545-participation
-STAT545-participation 19 fall
+This is Haohui Zhong's repository for STAT545-participation 19 fall.
