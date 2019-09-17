@@ -1,0 +1,5 @@
+"0","suppressPackageStartupMessages(library(tidyverse))"
+"0","suppressPackageStartupMessages(library(gapminder))"
+"0","suppressPackageStartupMessages(library(scales))"
+"0","suppressPackageStartupMessages(library(tsibble))"
+"0","knitr::opts_chunk$set(fig.align = ""center"")"

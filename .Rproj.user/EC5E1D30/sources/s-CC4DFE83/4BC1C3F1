@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568739690834.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2429988635",
+    "id" : "4BC1C3F1",
+    "lastKnownWriteTime" : 1568743415,
+    "last_content_update" : 1568743415581,
+    "path" : "D:/#出国/UBCbiochem/STAT545A/cm005-exercise.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "73,3",
+        "scrollLine" : "61"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

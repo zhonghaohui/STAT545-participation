@@ -1,0 +1,42 @@
+---
+title: "Gapminder Exploration"
+author: "Haohui Zhong"
+date: "2019/9/17"
+output: 
+  github_document:
+  keep_md: true
+  toc: true
+  theme: cerulean
+---
+
+## _Outline_
+
+In this document, we are going to do some data exploration with the `gapminder` dataset.
+
+### Load Packages
+
+In order to access the `gapminder` dataset, we need to load the `gapminder` package.
+
+```{r}
+library(gapminder)
+```
+
+By executing the following chunks, we will be able to have some basic ideas of the `gapminder` dataset.
+
+* What does this dataset contain?
+
+Obtaining such information can be done by checking out the description excerpt of the dataset 
+```{r}
+
+```
+
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

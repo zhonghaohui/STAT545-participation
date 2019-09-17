@@ -1,0 +1,2 @@
+"0","(mauna <- tsibble::as_tsibble(co2) %>% "
+"0","   rename(month = index, conc = value))"

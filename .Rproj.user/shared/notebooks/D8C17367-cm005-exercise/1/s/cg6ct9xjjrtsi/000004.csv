@@ -1,0 +1,6 @@
+"0","gapminder %>% "
+"0","  filter(year == 2007) %>% "
+"0","  mutate(continent = fct_infreq(continent)) %>% "
+"0","  ggplot(aes(continent)) +"
+"0","  geom_bar() +"
+"0","  theme_bw()"
