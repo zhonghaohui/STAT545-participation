@@ -19,8 +19,6 @@ Haohui Zhong's account https://github.com/zhonghaohui
 Assignment Due Date: September 18, 2018;	Peer Review Due Date: September 24, 2018 
   
   
-Sept.10
-[text](URL)
 
 
 
