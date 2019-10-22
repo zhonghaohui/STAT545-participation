@@ -24,7 +24,8 @@ Here are the links that lead you to files within the folders in the repo.
   - [cm006.html]( https://zhonghaohui.github.io/STAT545-participation/weeks_3_and_4/cm006-exercise.html)
   - [cm007.Rmd]( https://zhonghaohui.github.io/STAT545-participation/weeks_3_and_4/cm007-exercise.Rmd)
   - [cm007.html]( https://zhonghaohui.github.io/STAT545-participation/weeks_3_and_4/cm007-exercise.html)
-  - [cm007.md]( https://zhonghaohui.github.io/STAT545-participation/weeks_3_and_4/cm007-exercise.md)     - [cm008.Rmd](https://zhonghaohui.github.io/STAT545-participation/weeks_3_and_4/cm008-exercise.Rmd)
+  - [cm007.md]( https://zhonghaohui.github.io/STAT545-participation/weeks_3_and_4/cm007-exercise.md)     
+  - [cm008.Rmd](https://zhonghaohui.github.io/STAT545-participation/weeks_3_and_4/cm008-exercise.Rmd)
   - [cm008.md](https://zhonghaohui.github.io/STAT545-participation/weeks_3_and_4/cm008-exercise.md)
   - [cm008.html](https://zhonghaohui.github.io/STAT545-participation/weeks_3_and_4/cm008-exercise.html)
 
